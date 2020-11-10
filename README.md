@@ -65,5 +65,5 @@ pip install -r requirements.txt
 
 - [Dataset Download](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 
-## Copyrights
+## Copyright
 Sanjoy Biswas
